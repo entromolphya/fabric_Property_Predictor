@@ -1,6 +1,3 @@
----
-
-**Start copying from here ↓**
 
 ```
 # 🧵 Fabric Property Predictor
